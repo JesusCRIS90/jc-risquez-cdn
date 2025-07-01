@@ -1,0 +1,9 @@
+{
+    "Home": {
+        "Logo": {
+            "name": "Prueba",
+            "url-img": "https/prueba.this.image.png"
+        }
+    },
+    "text": "Testing Text Field"
+}
