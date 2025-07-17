@@ -25,8 +25,8 @@
             ]
         },
         "profileImage": {
-            "vertical": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/WEB-CV-Profile-Circle.png",
-            "horizontal": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/WEB-CV-Profile-Square.png"
+            "vertical": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/WEB-CV-Profile-Square.png",
+            "horizontal": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/WEB-CV-Profile-Circle.png"
         },
         "background": {
             "vertical": "no-definded.png",
@@ -34,3 +34,4 @@
         }
     }
 }
+
