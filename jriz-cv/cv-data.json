@@ -1,0 +1,36 @@
+{
+    "Home": {
+        "name": {
+            "text": "Jesus Carrion",
+            "keywords": [
+                "Jesus"
+            ]
+        },
+        "role": {
+            "text": "Software Engineer",
+            "keywords": [
+                "Engineer"
+            ]
+        },
+        "biefBio": {
+            "text": "A highly Versatil person, focus mainly in Web Development, Artificial Intelligence and Embedded RTOS Programming fields.",
+            "keywords": [
+                "Versatil",
+                "Artificial",
+                "Intelligence",
+                "Embedded",
+                "RTOS",
+                "Web",
+                "focus"
+            ]
+        },
+        "profileImage": {
+            "vertical": "/assets/images/WEB-CV-Profile-Circle.png",
+            "horizontal": "/assets/images/WEB-CV-Profile-Square.png"
+        },
+        "background": {
+            "vertical": "no-definded.png",
+            "horizontal": "no-definded.png"
+        }
+    }
+}
