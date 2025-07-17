@@ -31,7 +31,11 @@
         "background": {
             "vertical": "no-definded.png",
             "horizontal": "no-definded.png"
-        }
+        },
+        "linkedin_url": "https://www.linkedin.com/in/jesusrisquez/",
+        "github_url": "https://github.com/JesusCRIS90",
+        "downloable_cv_url": "",
+        "da_email": "Jesus_CR-90@hotmail.es"
     }
 }
 
