@@ -1,0 +1,21 @@
+.color-schemma-violet {
+  --violet-050: #f5f3ff;
+  --violet-100: #f2effd;
+  --violet-150: #f0edff;
+  --violet-200: #ede9fe;
+  --violet-250: #e2dbfe;
+  --violet-300: #ddd6ff;
+  --violet-350: #c8b3ff;
+  --violet-400: #a684ff;
+  --violet-450: #9c68ff;
+  --violet-500: #8e51ff;
+  --violet-550: #8739ff;
+  --violet-600: #7f22fe;
+  --violet-650: #7507f0;
+  --violet-700: #7008e7;
+  --violet-750: #6604d3;
+  --violet-800: #5d0ec0;
+  --violet-850: #52129f;
+  --violet-900: #4d179a;
+  --violet-950: #2f0d68;
+}

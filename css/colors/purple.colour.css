@@ -1,0 +1,21 @@
+.color-schemma-purple {
+  --purple-050: #faf5ff;
+  --purple-100: #f3e8ff;
+  --purple-150: #ecd9ff;
+  --purple-200: #e9d4ff;
+  --purple-250: #dfbfff;
+  --purple-300: #dab2ff;
+  --purple-350: #ce97ff;
+  --purple-400: #c27aff;
+  --purple-450: #b85eff;
+  --purple-500: #ad46ff;
+  --purple-550: #a22dfc;
+  --purple-600: #9810fa;
+  --purple-650: #8b0ae8;
+  --purple-700: #8200db;
+  --purple-750: #7512c6;
+  --purple-800: #6e11b0;
+  --purple-850: #63159a;
+  --purple-900: #59168b;
+  --purple-950: #3c0366;
+}
