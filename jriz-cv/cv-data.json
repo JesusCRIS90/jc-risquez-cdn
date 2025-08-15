@@ -36,6 +36,272 @@
         "github_url": "https://github.com/JesusCRIS90",
         "downloable_cv_url": "",
         "da_email": "Jesus_CR-90@hotmail.es"
+    },
+    "SProjects": [
+        {
+            "title": "Webs Collection",
+            "briefBio": "A Collection of differenct Web Project Made",
+            "mdDescription": "assets/docs/testFile.md",
+            "type": "img",
+            "imageUrls": {
+                "hori": [
+                    "hori-test-1.jpg",
+                    "hori-test-2.jpg",
+                    "hori-test-3.jpg"
+                ],
+                "vert": [
+                    "dog-test-1.jpg",
+                    "dog-test-2.jpg",
+                    "dog-test-3.jpg"
+                ]
+            },
+            "videoUrl": "",
+            "techs": [
+                {
+                    "name": "Angular",
+                    "icon": "bicon-tech-angular",
+                    "tooltip": "Angular"
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": "bicon-tech-typescript",
+                    "tooltip": "TypeScript"
+                }
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "icon": "bicon-tech-github",
+                    "url": "https://github.com/JesusCRIS90",
+                    "tooltip": "github"
+                }
+            ]
+        },
+        {
+            "title": "Webs Collection",
+            "briefBio": "A Collection of differenct Web Project Made",
+            "mdDescription": "assets/docs/testFile.md",
+            "type": "img",
+            "imageUrls": {
+                "hori": [
+                    "hori-test-2.jpg",
+                    "hori-test-1.jpg",
+                    "hori-test-3.jpg"
+                ],
+                "vert": [
+                    "dog-test-2.jpg",
+                    "dog-test-1.jpg",
+                    "dog-test-3.jpg"
+                ]
+            },
+            "videoUrl": "https://www.youtube.com/embed/lq-xYp0IUVo",
+            "techs": [
+                {
+                    "name": "Angular",
+                    "icon": "bicon-tech-angular",
+                    "tooltip": "Angular"
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": "bicon-tech-typescript",
+                    "tooltip": "TypeScript"
+                }
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "icon": "bicon-tech-github",
+                    "url": "https://github.com/JesusCRIS90",
+                    "tooltip": "github"
+                }
+            ]
+        },
+        {
+            "title": "Webs Collection",
+            "briefBio": "A Collection of differenct Web Project Made",
+            "mdDescription": "assets/docs/testFile.md",
+            "type": "img",
+            "imageUrls": {
+                "hori": [
+                    "hori-test-3.jpg",
+                    "hori-test-2.jpg",
+                    "hori-test-1.jpg"
+                ],
+                "vert": [
+                    "dog-test-3.jpg",
+                    "dog-test-2.jpg",
+                    "dog-test-1.jpg"
+                ]
+            },
+            "videoUrl": "",
+            "techs": [
+                {
+                    "name": "Angular",
+                    "icon": "bicon-tech-angular",
+                    "tooltip": "Angular"
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": "bicon-tech-typescript",
+                    "tooltip": "TypeScript"
+                }
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "icon": "bicon-tech-github",
+                    "url": "https://github.com/JesusCRIS90",
+                    "tooltip": "github"
+                }
+            ]
+        }
+    ],
+    "SExperience": [
+        {
+            "role": "Software Engineering",
+            "company": "Seville University",
+            "timeSpan": "Ene 2019 - Jul 2024",
+            "briefDescription": "This is a brief description ",
+            "mdDescription": "assets/docs/testFile.md",
+            "techs": [
+                {
+                    "name": "Angular",
+                    "icon": "bicon-tech-angular",
+                    "tooltip": "Angular"
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": "bicon-tech-typescript",
+                    "tooltip": "TypeScript"
+                }
+            ],
+            "type": "experience"
+        },
+        {
+            "role": "Software Engineering",
+            "company": "Seville University",
+            "timeSpan": "Ene 2019 - Jul 2024",
+            "briefDescription": "This is a brief description ",
+            "mdDescription": "assets/docs/testFile.md",
+            "techs": [
+                {
+                    "name": "Angular",
+                    "icon": "bicon-tech-angular",
+                    "tooltip": "Angular"
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": "bicon-tech-typescript",
+                    "tooltip": "TypeScript"
+                }
+            ],
+            "type": "experience"
+        },
+        {
+            "role": "Master Degree Electronic, Robotic and Automation Engineering",
+            "company": "Seville University",
+            "timeSpan": "Ene 2018 - Dec 2020",
+            "briefDescription": "This is a brief description ",
+            "mdDescription": "assets/docs/testFile.md",
+            "techs": [
+                {
+                    "name": "Angular",
+                    "icon": "bicon-tech-angular",
+                    "tooltip": "Angular"
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": "bicon-tech-typescript",
+                    "tooltip": "TypeScript"
+                }
+            ],
+            "type": "education"
+        }
+    ],
+    "SSkills": {
+        "skills": [
+            {
+                "name": "Angular",
+                "topic": "Frontend",
+                "refIcon": "bicon-tech-angular",
+                "tag": [
+                    "frontend"
+                ]
+            },
+            {
+                "name": "NestJS",
+                "topic": "Backend",
+                "refIcon": "bicon-tech-nestjs",
+                "tag": [
+                    "backend"
+                ]
+            },
+            {
+                "name": "PostgreSQL",
+                "topic": "Database",
+                "refIcon": "bicon-tech-postgresql",
+                "tag": [
+                    "d-bases"
+                ]
+            },
+            {
+                "name": "TypeScript",
+                "topic": "Programming Languages",
+                "refIcon": "bicon-tech-typescript",
+                "tag": [
+                    "frontend",
+                    "p-languages"
+                ]
+            },
+            {
+                "name": "C++",
+                "topic": "Programming Languages",
+                "refIcon": "bicon-tech-cpp",
+                "tag": [
+                    "p-languages",
+                    "firmware",
+                    "desk-app"
+                ]
+            },
+            {
+                "name": "Qt",
+                "topic": "C++ Library",
+                "refIcon": "bicon-tech-qt",
+                "tag": [
+                    "p-languages",
+                    "desk-app"
+                ]
+            }
+        ],
+        "chips": [
+            {
+                "topic": "Frontend",
+                "tag": "frontend"
+            },
+            {
+                "topic": "Backend",
+                "tag": "backend"
+            },
+            {
+                "topic": "Firmware",
+                "tag": "firmware"
+            },
+            {
+                "topic": "Desktop App",
+                "tag": "desk-app"
+            },
+            {
+                "topic": "Databases",
+                "tag": "d-bases"
+            },
+            {
+                "topic": "Programming Languages",
+                "tag": "p-languages"
+            },
+            {
+                "topic": "Control Version",
+                "tag": "c-version"
+            }
+        ]
     }
 }
-
