@@ -275,6 +275,10 @@
         ],
         "chips": [
             {
+                "topic": "All",
+                "tag": "all"
+            },
+            {
                 "topic": "Frontend",
                 "tag": "frontend"
             },
