@@ -123,7 +123,7 @@
             "title": "Webs Collection",
             "briefBio": "A Collection of differenct Web Project Made",
             "mdDescription": "assets/docs/testFile.md",
-            "type": "img",
+            "type": "video",
             "imageUrls": {
                 "hori": [
                     "assets/images/hori-test-3.jpg",
@@ -136,7 +136,7 @@
                     "assets/images/dog-test-1.jpg"
                 ]
             },
-            "videoUrl": "",
+            "videoUrl": "https://www.youtube.com/embed/lq-xYp0IUVo",
             "techs": [
                 {
                     "name": "Angular",
