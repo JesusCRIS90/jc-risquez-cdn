@@ -46,14 +46,14 @@
             "type": "img",
             "imageUrls": {
                 "hori": [
-                    "hori-test-1.jpg",
-                    "hori-test-2.jpg",
-                    "hori-test-3.jpg"
+                    "assets/images/hori-test-1.jpg",
+                    "assets/images/hori-test-2.jpg",
+                    "assets/images/hori-test-3.jpg"
                 ],
                 "vert": [
-                    "dog-test-1.jpg",
-                    "dog-test-2.jpg",
-                    "dog-test-3.jpg"
+                    "assets/images/dog-test-1.jpg",
+                    "assets/images/dog-test-2.jpg",
+                    "assets/images/dog-test-3.jpg"
                 ]
             },
             "videoUrl": "",
@@ -86,14 +86,14 @@
             "type": "img",
             "imageUrls": {
                 "hori": [
-                    "hori-test-2.jpg",
-                    "hori-test-1.jpg",
-                    "hori-test-3.jpg"
+                    "assets/images/hori-test-2.jpg",
+                    "assets/images/hori-test-1.jpg",
+                    "assets/images/hori-test-3.jpg"
                 ],
                 "vert": [
-                    "dog-test-2.jpg",
-                    "dog-test-1.jpg",
-                    "dog-test-3.jpg"
+                    "assets/images/dog-test-2.jpg",
+                    "assets/images/dog-test-1.jpg",
+                    "assets/images/dog-test-3.jpg"
                 ]
             },
             "videoUrl": "https://www.youtube.com/embed/lq-xYp0IUVo",
@@ -126,14 +126,14 @@
             "type": "img",
             "imageUrls": {
                 "hori": [
-                    "hori-test-3.jpg",
-                    "hori-test-2.jpg",
-                    "hori-test-1.jpg"
+                    "assets/images/hori-test-3.jpg",
+                    "assets/images/hori-test-2.jpg",
+                    "assets/images/hori-test-1.jpg"
                 ],
                 "vert": [
-                    "dog-test-3.jpg",
-                    "dog-test-2.jpg",
-                    "dog-test-1.jpg"
+                    "assets/images/dog-test-3.jpg",
+                    "assets/images/dog-test-2.jpg",
+                    "assets/images/dog-test-1.jpg"
                 ]
             },
             "videoUrl": "",
