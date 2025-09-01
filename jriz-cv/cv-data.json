@@ -30,7 +30,7 @@
         },
         "background": {
             "vertical": "no-definded.png",
-            "horizontal": "bg-hori.png"
+            "horizontal": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/bg-hori.png"
         },
         "linkedin_url": "https://www.linkedin.com/in/jesusrisquez/",
         "github_url": "https://github.com/JesusCRIS90",
