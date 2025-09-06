@@ -157,6 +157,86 @@
                     "tooltip": "github"
                 }
             ]
+        },
+        {
+            "id": "4",
+            "title": "Webs Collection",
+            "briefBio": "A Collection of differenct Web Project Made",
+            "mdDescription": "assets/docs/testFile.md",
+            "type": "video",
+            "imageUrls": {
+                "hori": [
+                    "assets/images/hori-test-3.jpg",
+                    "assets/images/hori-test-2.jpg",
+                    "assets/images/hori-test-1.jpg"
+                ],
+                "vert": [
+                    "assets/images/dog-test-3.jpg",
+                    "assets/images/dog-test-2.jpg",
+                    "assets/images/dog-test-1.jpg"
+                ]
+            },
+            "videoUrl": "https://www.youtube.com/embed/lq-xYp0IUVo",
+            "techs": [
+                {
+                    "name": "Angular",
+                    "icon": "bicon-tech-angular",
+                    "tooltip": "Angular"
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": "bicon-tech-typescript",
+                    "tooltip": "TypeScript"
+                }
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "icon": "bicon-tech-github",
+                    "url": "https://github.com/JesusCRIS90",
+                    "tooltip": "github"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Webs Collection",
+            "briefBio": "A Collection of differenct Web Project Made",
+            "mdDescription": "assets/docs/testFile.md",
+            "type": "video",
+            "imageUrls": {
+                "hori": [
+                    "assets/images/hori-test-3.jpg",
+                    "assets/images/hori-test-2.jpg",
+                    "assets/images/hori-test-1.jpg"
+                ],
+                "vert": [
+                    "assets/images/dog-test-3.jpg",
+                    "assets/images/dog-test-2.jpg",
+                    "assets/images/dog-test-1.jpg"
+                ]
+            },
+            "videoUrl": "https://www.youtube.com/embed/lq-xYp0IUVo",
+            "techs": [
+                {
+                    "name": "Angular",
+                    "icon": "bicon-tech-angular",
+                    "tooltip": "Angular"
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": "bicon-tech-typescript",
+                    "tooltip": "TypeScript"
+                }
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "icon": "bicon-tech-github",
+                    "url": "https://github.com/JesusCRIS90",
+                    "tooltip": "github"
+                }
+            ]
         }
     ],
     "SExperience": [
