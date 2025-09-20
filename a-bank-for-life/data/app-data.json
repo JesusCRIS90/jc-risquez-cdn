@@ -1,0 +1,137 @@
+{
+    "header":{
+        "logoImg": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/a-bank-for-life/images/icon.png",
+        "logoName": "Bankist",
+        "navItems": [
+            {
+                "title": "Features",
+                "link": "features",
+                "id": "header-link-features"
+            },
+            {
+                "title": "Operations",
+                "link": "operations",
+                "id": "header-link-operations"
+            },
+            {
+                "title": "Testimonials",
+                "link": "testimonials",
+                "id": "header-link-testimonials"
+            },
+            {
+                "title": "Open Account",
+                "link": "open-account",
+                "id": "header-link-open-account"
+            }
+        ]
+    },
+    "features": [
+        {
+            "title": "100% Digital Bank",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde alias sint quos? Accusantium a fugiat porro reiciendis saepe quibusdam debitis ducimus.",
+            "icon": "monitor",
+            "img": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/a-bank-for-life/images/digital-lazy.jpg"
+        },
+        {
+            "title": "Watch your money grow",
+            "text": "Nesciunt quos autem dolorum voluptates cum dolores dicta fuga inventore ab? Nulla incidunt eius numquam sequi iste pariatur quibusdam!",
+            "icon": "trending-up",
+            "img": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/a-bank-for-life/images/grow-lazy.jpg"
+        },
+        {
+            "title": "Free debit card included",
+            "text": "Quasi, fugit in cumque cupiditate reprehenderit debitis animi enim eveniet consequatur odit quam quos possimus assumenda dicta fuga inventore ab.",
+            "icon": "credit-card",
+            "img": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/a-bank-for-life/images/card-lazy.jpg"
+        }
+    ],
+    "operations": [
+        {
+            "title": "Tranfser money to anyone, instantly! No fees, no BS.",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "icon": "upload",
+            "id": "transfers"
+        },
+        {
+            "title": "Buy a home or make your dreams come true, with instant loans.",
+            "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "icon": "home",
+            "id": "loans"
+        },
+        {
+            "title": "No longer need your account? No problem! Close it instantly.",
+            "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "icon": "user-x",
+            "id": "closing"
+        }
+    ],
+    "testimonials": [
+        {
+            "title": "The last step to becoming a complete minimalist",
+            "text": "Quisquam itaque deserunt ullam, quia ea repellendus provident, ducimus neque ipsam modi voluptatibus doloremque, corrupti laborum. Incidunt numquam perferendis veritatis neque repellendus. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo deserunt exercitationem deleniti.",
+            "person": {
+                "name": "Miyah Miles",
+                "country": "London, UK",
+                "img": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/a-bank-for-life/images/user-2.jpg"
+            }
+        },
+        {
+            "title": "Finally free from old-school banks",
+            "text": "Debitis, nihil sit minus suscipit magni aperiam vel tenetur incidunt commodi architecto numquam omnis nulla autem, necessitatibus blanditiis modi similique quidem. Odio aliquam culpa dicta beatae quod maiores ipsa minus consequatur error sunt, deleniti saepe aliquid quos inventore sequi. Necessitatibus id alias reiciendis, perferendis facere.",
+            "person": {
+                "name": "Francisco Gomes",
+                "country": "Lisbon, Portugal",
+                "img": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/a-bank-for-life/images/user-3.jpg"
+            }
+        },
+        {
+            "title": "Best financial decision ever!",
+            "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium quas quisquam non? Quas voluptate nulla minima deleniti optio ullam nesciunt, numquam corporis et asperiores laboriosam sunt, praesentium suscipit blanditiis. Necessitatibus id alias reiciendis, perferendis facere pariatur dolore veniam autem esse non voluptatem saepe provident nihil molestiae",
+            "person": {
+                "name": "Aarav Lynn",
+                "country": "San Francisco, USA",
+                "img": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/a-bank-for-life/images/user-1.jpg"
+            }
+        }
+    ],
+    "footer": {
+        "logoSrc": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/a-bank-for-life/images/icon.png",
+        "navItems": [
+            {
+                "title": "About",
+                "link": "#",
+                "id": "footer-about"
+            },
+            {
+                "title": "Pricing",
+                "link": "#",
+                "id": "footer-pricing"
+            },
+            {
+                "title": "Terms of Use",
+                "link": "#",
+                "id": "footer-terms-of-use"
+            },
+            {
+                "title": "Privacy Policy",
+                "link": "#",
+                "id": "footer-privacy-policy"
+            },
+            {
+                "title": "Careers",
+                "link": "#",
+                "id": "footer-careers"
+            },
+            {
+                "title": "Blog",
+                "link": "#",
+                "id": "footer-blog"
+            },
+            {
+                "title": "Contact Us",
+                "link": "#",
+                "id": "footer-contact-us"
+            }
+        ]
+    }
+}
