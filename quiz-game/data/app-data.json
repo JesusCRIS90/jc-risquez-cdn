@@ -1,0 +1,151 @@
+{
+    "selectionPage":{
+        "rootPath": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/quiz-game/categories",
+        "categories":[
+            {
+                "icon": "books",
+                "id": "book",
+                "name": "Books"
+            },
+            {
+                "icon": "films",
+                "id": "films",
+                "name": "Films"
+            },
+            {
+                "icon": "music",
+                "id": "music",
+                "name": "Music"
+            },
+            {
+                "icon": "musicals",
+                "id": "musicals",
+                "name": "Musicals"
+            },
+            {
+                "icon": "television",
+                "id": "television",
+                "name": "Television"
+            },
+            {
+                "id": "videogames",
+                "icon": "videogames",
+                "name": "Videogames"
+            },
+            {
+                "id": "boardgames",
+                "icon": "boardgames",
+                "name": "Boardgames"
+            },
+            {
+                "id": "science",
+                "icon": "science",
+                "name": "Science"
+            },
+            {
+                "id": "computers",
+                "icon": "computers",
+                "name": "Computers"
+            },
+            {
+                "id": "math",
+                "icon": "math",
+                "name": "Maths"
+            },
+            {
+                "id": "mythology",
+                "icon": "mythology",
+                "name": "Mythology"
+            },
+            {
+                "id": "sports",
+                "icon": "sports",
+                "name": "Sports"
+            },
+            {
+                "id": "geography",
+                "icon": "geography",
+                "name": "Geography"
+            },
+            {
+                "id": "history",
+                "icon": "history",
+                "name": "History"
+            },
+            {
+                "id": "politics",
+                "icon": "politics",
+                "name": "Politics"
+            },
+            {
+                "id": "art",
+                "icon": "art",
+                "name": "Art"
+            },
+            {
+                "id": "celebrities",
+                "icon": "celebrities",
+                "name": "Celebrities"
+            },
+            {
+                "id": "animals",
+                "icon": "animals",
+                "name": "Animals"
+            },
+            {
+                "id": "vehicles",
+                "icon": "vehicles",
+                "name": "Vehicles"
+            },
+            {
+                "id": "comics",
+                "icon": "comics",
+                "name": "Comics"
+            },
+            {
+                "id": "gadgets",
+                "icon": "gadgets",
+                "name": "Gadgets"
+            },
+            {
+                "id": "anime",
+                "icon": "anime",
+                "name": "Anime/Manga"
+            },
+            {
+                "id": "cartoon",
+                "icon": "cartoon",
+                "name": "Cartoon"
+            },
+            {
+                "id": "general",
+                "icon": "general",
+                "name": "General"
+            }
+        ],
+        "difficultyLevel":[
+            {
+                "id": "easy",
+                "text": "Easy"
+            },
+            {
+                "id": "medium",
+                "text": "Medium"
+            },
+            {
+                "id": "hard",
+                "text": "Hard"
+            }
+        ],
+        "type": [
+            {
+                "id": "boolean",
+                "text": "True/False"
+            },
+            {
+                "id": "multiple",
+                "text": "Multiple Choice"
+            }
+        ]
+    } 
+}
