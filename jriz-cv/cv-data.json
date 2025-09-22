@@ -242,11 +242,11 @@
     "SExperience": [
         {
             "id": "1",
-            "role": "Software Engineering",
-            "company": "Seville University",
-            "timeSpan": "Ene 2019 - Jul 2024",
-            "briefDescription": "This is a brief description ",
-            "mdDescription": "assets/docs/testFile.md",
+            "role": "Full-Stack Web-Dev",
+            "company": "Freelance",
+            "timeSpan": "Feb 2023 - Now",
+            "briefDescription": "Helping Clients to comes to life its ideas",
+            "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/experience/web-dev-freelance.md",
             "techs": [
                 {
                     "name": "Angular",
@@ -254,9 +254,19 @@
                     "tooltip": "Angular"
                 },
                 {
+                    "name": "NestJS",
+                    "icon": "bicon-tech-nestjs",
+                    "tooltip": "NestJS"
+                },
+                {
                     "name": "TypeScript",
                     "icon": "bicon-tech-typescript",
                     "tooltip": "TypeScript"
+                },
+                {
+                    "name": "Python",
+                    "icon": "bicon-tech-python",
+                    "tooltip": "Python"
                 }
             ],
             "type": "experience"
