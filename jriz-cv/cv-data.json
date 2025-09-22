@@ -25,12 +25,12 @@
             ]
         },
         "profileImage": {
-            "vertical": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/WEB-CV-Profile-Square.png",
-            "horizontal": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/WEB-CV-Profile-Circle.png"
+            "vertical": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/home-sec/profile.png",
+            "horizontal": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/home-sec/profile.png"
         },
         "background": {
             "vertical": "no-definded.png",
-            "horizontal": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/bg-hori-v4.png"
+            "horizontal": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/main/jriz-cv/images/home-sec/bg-img.png"
         },
         "linkedin_url": "https://www.linkedin.com/in/jesusrisquez/",
         "github_url": "https://github.com/JesusCRIS90",
