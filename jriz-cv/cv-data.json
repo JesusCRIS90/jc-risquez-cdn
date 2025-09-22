@@ -83,7 +83,7 @@
             "title": "Python Games Collection",
             "briefBio": "A collection of Simple Games created on Pygame",
             "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/projects/proj-pygame.md",
-            "type": "img",
+            "type": "video",
             "imageUrls": {
                 "hori": [
                     "assets/images/hori-test-2.jpg",
@@ -96,24 +96,24 @@
                     "assets/images/dog-test-3.jpg"
                 ]
             },
-            "videoUrl": "https://www.youtube.com/embed/lq-xYp0IUVo",
+            "videoUrl": "https://www.youtube.com/watch?v=B-TwTdJXP_s",
             "techs": [
                 {
-                    "name": "Angular",
-                    "icon": "bicon-tech-angular",
-                    "tooltip": "Angular"
+                    "name": "Python",
+                    "icon": "bicon-tech-python",
+                    "tooltip": "Python"
                 },
                 {
-                    "name": "TypeScript",
-                    "icon": "bicon-tech-typescript",
-                    "tooltip": "TypeScript"
+                    "name": "PyGame",
+                    "icon": "bicon-tech-pygame",
+                    "tooltip": "PyGame"
                 }
             ],
             "links": [
                 {
                     "name": "Github",
                     "icon": "bicon-tech-github",
-                    "url": "https://github.com/JesusCRIS90",
+                    "url": "https://github.com/JesusCRIS90/Py-Game-Collection",
                     "tooltip": "github"
                 }
             ]
@@ -136,24 +136,19 @@
                     "assets/images/dog-test-1.jpg"
                 ]
             },
-            "videoUrl": "https://www.youtube.com/embed/lq-xYp0IUVo",
+            "videoUrl": "https://www.youtube.com/watch?v=Kzetw7JXEcY",
             "techs": [
                 {
-                    "name": "Angular",
-                    "icon": "bicon-tech-angular",
-                    "tooltip": "Angular"
-                },
-                {
-                    "name": "TypeScript",
-                    "icon": "bicon-tech-typescript",
-                    "tooltip": "TypeScript"
+                    "name": "Godot",
+                    "icon": "bicon-tech-godot",
+                    "tooltip": "Godot"
                 }
             ],
             "links": [
                 {
                     "name": "Github",
                     "icon": "bicon-tech-github",
-                    "url": "https://github.com/JesusCRIS90",
+                    "url": "https://github.com/JesusCRIS90/godot-games",
                     "tooltip": "github"
                 }
             ]
@@ -176,24 +171,29 @@
                     "assets/images/dog-test-1.jpg"
                 ]
             },
-            "videoUrl": "https://www.youtube.com/embed/lq-xYp0IUVo",
+            "videoUrl": "https://www.youtube.com/watch?v=hdbAuEC1GFk",
             "techs": [
                 {
-                    "name": "Angular",
-                    "icon": "bicon-tech-angular",
-                    "tooltip": "Angular"
+                    "name": "C++",
+                    "icon": "bicon-tech-cpp",
+                    "tooltip": "C++"
                 },
                 {
-                    "name": "TypeScript",
-                    "icon": "bicon-tech-typescript",
-                    "tooltip": "TypeScript"
+                    "name": "OpenCV",
+                    "icon": "bicon-tech-opencv",
+                    "tooltip": "OpenCV"
+                },
+                {
+                    "name": "Qt",
+                    "icon": "bicon-tech-qt",
+                    "tooltip": "Qt"
                 }
             ],
             "links": [
                 {
                     "name": "Github",
                     "icon": "bicon-tech-github",
-                    "url": "https://github.com/JesusCRIS90",
+                    "url": "#",
                     "tooltip": "github"
                 }
             ]
@@ -216,24 +216,24 @@
                     "assets/images/dog-test-1.jpg"
                 ]
             },
-            "videoUrl": "https://www.youtube.com/embed/lq-xYp0IUVo",
+            "videoUrl": "https://www.youtube.com/watch?v=YCOb-NA-qTQ",
             "techs": [
                 {
-                    "name": "Angular",
-                    "icon": "bicon-tech-angular",
-                    "tooltip": "Angular"
+                    "name": "CATIA V5",
+                    "icon": "bicon-tech-catia",
+                    "tooltip": "CATIA V5"
                 },
                 {
-                    "name": "TypeScript",
-                    "icon": "bicon-tech-typescript",
-                    "tooltip": "TypeScript"
+                    "name": "SolidWorks",
+                    "icon": "bicon-tech-solidworks",
+                    "tooltip": "SolidWorks"
                 }
             ],
             "links": [
                 {
                     "name": "Github",
                     "icon": "bicon-tech-github",
-                    "url": "https://github.com/JesusCRIS90",
+                    "url": "#",
                     "tooltip": "github"
                 }
             ]
