@@ -41,8 +41,8 @@
         {
             "id": "1",
             "title": "Webs Collection",
-            "briefBio": "A Collection of differenct Web Project Made",
-            "mdDescription": "assets/docs/testFile.md",
+            "briefBio": "A collection of Web pages built with different Frontend technologies",
+            "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/projects/web-collection-projects.md",
             "type": "img",
             "imageUrls": {
                 "hori": [
@@ -80,9 +80,9 @@
         },
         {
             "id": "2",
-            "title": "Webs Collection",
-            "briefBio": "A Collection of differenct Web Project Made",
-            "mdDescription": "assets/docs/testFile.md",
+            "title": "Python Games Collection",
+            "briefBio": "A collection of Simple Games created on Pygame",
+            "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/projects/proj-pygame.md",
             "type": "img",
             "imageUrls": {
                 "hori": [
@@ -120,9 +120,9 @@
         },
         {
             "id": "3",
-            "title": "Webs Collection",
-            "briefBio": "A Collection of differenct Web Project Made",
-            "mdDescription": "assets/docs/testFile.md",
+            "title": "Godot Games Collection",
+            "briefBio": "A collection of Simple Games created on Godot",
+            "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/projects/proj-godot.md",
             "type": "video",
             "imageUrls": {
                 "hori": [
@@ -160,9 +160,9 @@
         },
         {
             "id": "4",
-            "title": "Webs Collection",
-            "briefBio": "A Collection of differenct Web Project Made",
-            "mdDescription": "assets/docs/testFile.md",
+            "title": "Computer Vision App",
+            "briefBio": "App-Desktop to design Computer Vision Algorithm",
+            "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/projects/proj-vision.md",
             "type": "video",
             "imageUrls": {
                 "hori": [
@@ -200,9 +200,9 @@
         },
         {
             "id": "5",
-            "title": "Webs Collection",
-            "briefBio": "A Collection of differenct Web Project Made",
-            "mdDescription": "assets/docs/testFile.md",
+            "title": "CAD Projects",
+            "briefBio": "A collection of CAD projects created during my formation process, showcasing designs built in several CAD Softwares",
+            "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/projects/proj-cad.md",
             "type": "video",
             "imageUrls": {
                 "hori": [
