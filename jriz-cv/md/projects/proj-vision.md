@@ -1,0 +1,5 @@
+This project was developed as my Master’s final thesis and focused on building a prototype that simplifies the creation and design of computer vision algorithms. The main objective was to lower the entry barrier for experimenting with computer vision by providing a more intuitive and accessible way to develop solutions.
+
+The prototype introduces a visual programming approach where algorithms are designed through modular building blocks. Each block encapsulates a small, simple piece of code with defined inputs and outputs. By connecting these blocks together, users can construct more complex behaviors. This concept takes inspiration from the Blueprint System in Unreal Engine, allowing for a highly visual and flexible workflow.
+
+The implementation of the system was carried out using Qt for the graphical interface, C++ for the core logic, and OpenCV for computer vision functionality. Together, these technologies provided a powerful yet user-friendly environment to design, test, and experiment with custom computer vision pipelines.
