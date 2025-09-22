@@ -259,6 +259,11 @@
                     "tooltip": "NestJS"
                 },
                 {
+                    "name": "FastAPI",
+                    "icon": "bicon-tech-fastapi",
+                    "tooltip": "FastAPI"
+                },
+                {
                     "name": "TypeScript",
                     "icon": "bicon-tech-typescript",
                     "tooltip": "TypeScript"
@@ -275,14 +280,24 @@
             "id": "2",
             "role": "Software Engineering",
             "company": "Seville University",
-            "timeSpan": "Ene 2019 - Jul 2024",
-            "briefDescription": "This is a brief description ",
-            "mdDescription": "assets/docs/testFile.md",
+            "timeSpan": "Aug 2020 - Jul 2024",
+            "briefDescription": "Developing innovative solutions across mutiple field within a leading research environment",
+            "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/experience/us-software-engineer.md",
             "techs": [
                 {
-                    "name": "Angular",
-                    "icon": "bicon-tech-angular",
-                    "tooltip": "Angular"
+                    "name": "C",
+                    "icon": "bicon-tech-c",
+                    "tooltip": "C"
+                },
+                {
+                    "name": "C++",
+                    "icon": "bicon-tech-cpp",
+                    "tooltip": "C++"
+                },
+                {
+                    "name": "Python",
+                    "icon": "bicon-tech-python",
+                    "tooltip": "Python"
                 },
                 {
                     "name": "TypeScript",
@@ -294,21 +309,93 @@
         },
         {
             "id": "3",
-            "role": "Master Degree Electronic, Robotic and Automation Engineering",
+            "role": "Data Sciencetist",
             "company": "Seville University",
-            "timeSpan": "Ene 2018 - Dec 2020",
-            "briefDescription": "This is a brief description ",
-            "mdDescription": "assets/docs/testFile.md",
+            "timeSpan": "Mar 2019 - Aug 2020",
+            "briefDescription": "Evaluating the viability of electric buses (public transport) within the city",
+            "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/experience/us-data-science.md",
             "techs": [
                 {
-                    "name": "Angular",
-                    "icon": "bicon-tech-angular",
-                    "tooltip": "Angular"
+                    "name": "Python",
+                    "icon": "bicon-tech-python",
+                    "tooltip": "Python"
                 },
                 {
-                    "name": "TypeScript",
-                    "icon": "bicon-tech-typescript",
-                    "tooltip": "TypeScript"
+                    "name": "Pandas",
+                    "icon": "bicon-tech-pandas",
+                    "tooltip": "Pandas"
+                },
+                {
+                    "name": "SQLite",
+                    "icon": "bicon-tech-sqlite",
+                    "tooltip": "SQLite"
+                },
+                {
+                    "name": "Matlab",
+                    "icon": "bicon-tech-matlab",
+                    "tooltip": "Matlab"
+                }
+            ],
+            "type": "experience"
+        },
+        {
+            "id": "4",
+            "role": "Master's Degree",
+            "company": "Seville University",
+            "timeSpan": "2018 - 2020",
+            "briefDescription": "Master's Degree in Electronic Engineering, Robotics, and Automation",
+            "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/experience/edu-master.md",
+            "techs": [
+                {
+                    "name": "C",
+                    "icon": "bicon-tech-c",
+                    "tooltip": "C"
+                },
+                {
+                    "name": "C++",
+                    "icon": "bicon-tech-cpp",
+                    "tooltip": "C++"
+                },
+                {
+                    "name": "Python",
+                    "icon": "bicon-tech-python",
+                    "tooltip": "Python"
+                },
+                {
+                    "name": "Matlab",
+                    "icon": "bicon-tech-matlab",
+                    "tooltip": "Matlab"
+                }
+            ],
+            "type": "education"
+        },
+        {
+            "id": "5",
+            "role": "Bachelor's Degree",
+            "company": "Seville University",
+            "timeSpan": "2010 - 2016",
+            "briefDescription": "Bachelor's Degree in Industrial Engineering",
+            "mdDescription": "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/md/experience/edu-industrial-engineer.md",
+            "techs": [
+                {
+                    "name": "C",
+                    "icon": "bicon-tech-c",
+                    "tooltip": "C"
+                },
+                {
+                    "name": "C++",
+                    "icon": "bicon-tech-cpp",
+                    "tooltip": "C++"
+                },
+                {
+                    "name": "Python",
+                    "icon": "bicon-tech-python",
+                    "tooltip": "Python"
+                },
+                {
+                    "name": "Matlab",
+                    "icon": "bicon-tech-matlab",
+                    "tooltip": "Matlab"
                 }
             ],
             "type": "education"
