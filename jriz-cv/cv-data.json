@@ -46,14 +46,14 @@
             "type": "img",
             "imageUrls": {
                 "hori": [
-                    "assets/images/hori-test-1.jpg",
-                    "assets/images/hori-test-2.jpg",
-                    "assets/images/hori-test-3.jpg"
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/web-collection/hori/web1-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/web-collection/hori/web2-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/web-collection/hori/web3-min.png"
                 ],
                 "vert": [
-                    "assets/images/dog-test-1.jpg",
-                    "assets/images/dog-test-2.jpg",
-                    "assets/images/dog-test-3.jpg"
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/web-collection/vert/web1-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/web-collection/vert/web2-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/web-collection/vert/web3-min.png"
                 ]
             },
             "videoUrl": "",
@@ -86,14 +86,14 @@
             "type": "video",
             "imageUrls": {
                 "hori": [
-                    "assets/images/hori-test-2.jpg",
-                    "assets/images/hori-test-1.jpg",
-                    "assets/images/hori-test-3.jpg"
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/pygame/hori/pyg1-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/pygame/hori/pyg2-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/pygame/hori/pyg3-min.png"
                 ],
                 "vert": [
-                    "assets/images/dog-test-2.jpg",
-                    "assets/images/dog-test-1.jpg",
-                    "assets/images/dog-test-3.jpg"
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/pygame/vert/pyg1-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/pygame/vert/pyg2-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/pygame/vert/pyg3-min.png"
                 ]
             },
             "videoUrl": "https://youtu.be/B-TwTdJXP_s",
@@ -126,14 +126,12 @@
             "type": "video",
             "imageUrls": {
                 "hori": [
-                    "assets/images/hori-test-3.jpg",
-                    "assets/images/hori-test-2.jpg",
-                    "assets/images/hori-test-1.jpg"
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/godot/hori/got1-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/godot/hori/got2-min.png"
                 ],
                 "vert": [
-                    "assets/images/dog-test-3.jpg",
-                    "assets/images/dog-test-2.jpg",
-                    "assets/images/dog-test-1.jpg"
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/godot/vert/got1-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/godot/vert/got2-min.png"
                 ]
             },
             "videoUrl": "https://www.youtube.com/watch?v=Kzetw7JXEcY",
@@ -161,14 +159,12 @@
             "type": "video",
             "imageUrls": {
                 "hori": [
-                    "assets/images/hori-test-3.jpg",
-                    "assets/images/hori-test-2.jpg",
-                    "assets/images/hori-test-1.jpg"
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/vision/hori/vis1-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/vision/hori/vis2-min.png"
                 ],
                 "vert": [
-                    "assets/images/dog-test-3.jpg",
-                    "assets/images/dog-test-2.jpg",
-                    "assets/images/dog-test-1.jpg"
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/vision/vert/vis1-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/vision/vert/vis2-min.png"
                 ]
             },
             "videoUrl": "https://www.youtube.com/watch?v=hdbAuEC1GFk",
@@ -206,14 +202,12 @@
             "type": "video",
             "imageUrls": {
                 "hori": [
-                    "assets/images/hori-test-3.jpg",
-                    "assets/images/hori-test-2.jpg",
-                    "assets/images/hori-test-1.jpg"
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/cad/hori/cad1-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/cad/hori/cad2-min.png"
                 ],
                 "vert": [
-                    "assets/images/dog-test-3.jpg",
-                    "assets/images/dog-test-2.jpg",
-                    "assets/images/dog-test-1.jpg"
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/cad/vert/cad1-min.png",
+                    "https://raw.githubusercontent.com/JesusCRIS90/jc-risquez-cdn/refs/heads/main/jriz-cv/images/project-sec/cad/vert/cad2-min.png"
                 ]
             },
             "videoUrl": "https://www.youtube.com/watch?v=YCOb-NA-qTQ",
