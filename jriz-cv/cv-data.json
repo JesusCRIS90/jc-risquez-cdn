@@ -417,7 +417,7 @@
             {
                 "name": "C",
                 "topic": "Programming Language",
-                "refIcon": "bicon-tech-bash",
+                "refIcon": "bicon-tech-c",
                 "tag": [
                     "firmware",
                     "desk-app"
@@ -426,7 +426,7 @@
             {
                 "name": "C++",
                 "topic": "Programming Language",
-                "refIcon": "bicon-tech-bash",
+                "refIcon": "bicon-tech-cpp",
                 "tag": [
                     "firmware",
                     "desk-app"
@@ -447,7 +447,7 @@
                 "topic": "Programming Language",
                 "refIcon": "bicon-tech-python",
                 "tag": [
-                    "frontend",
+                    "desk-app",
                     "backend",
                     "f-stack",
                     "d-science"
