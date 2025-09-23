@@ -402,7 +402,90 @@
                 "topic": "Frontend",
                 "refIcon": "bicon-tech-angular",
                 "tag": [
-                    "frontend"
+                    "frontend",
+                    "f-stack"
+                ]
+            },
+            {
+                "name": "Bash Script",
+                "topic": "Devops",
+                "refIcon": "bicon-tech-bash",
+                "tag": [
+                    "devops"
+                ]
+            },
+            {
+                "name": "C",
+                "topic": "Programming Language",
+                "refIcon": "bicon-tech-bash",
+                "tag": [
+                    "firmware",
+                    "desk-app"
+                ]
+            },
+            {
+                "name": "C++",
+                "topic": "Programming Language",
+                "refIcon": "bicon-tech-bash",
+                "tag": [
+                    "firmware",
+                    "desk-app"
+                ]
+            },
+            {
+                "name": "TypeScript",
+                "topic": "Programming Language",
+                "refIcon": "bicon-tech-typescript",
+                "tag": [
+                    "frontend",
+                    "backend",
+                    "f-stack"
+                ]
+            },
+            {
+                "name": "Python",
+                "topic": "Programming Language",
+                "refIcon": "bicon-tech-python",
+                "tag": [
+                    "frontend",
+                    "backend",
+                    "f-stack",
+                    "d-science"
+                ]
+            },
+            {
+                "name": "CSS",
+                "topic": "Frontend Styles",
+                "refIcon": "bicon-tech-css",
+                "tag": [
+                    "frontend",
+                    "f-stack"
+                ]
+            },
+            {
+                "name": "HTML",
+                "topic": "Frontend",
+                "refIcon": "bicon-tech-html",
+                "tag": [
+                    "frontend",
+                    "f-stack"
+                ]
+            },
+            {
+                "name": "Dcoker",
+                "topic": "Devops",
+                "refIcon": "bicon-tech-docker",
+                "tag": [
+                    "devops"
+                ]
+            },
+            {
+                "name": "FastAPI",
+                "topic": "Backend",
+                "refIcon": "bicon-tech-fastapi",
+                "tag": [
+                    "backend",
+                    "f-stack"
                 ]
             },
             {
@@ -410,43 +493,208 @@
                 "topic": "Backend",
                 "refIcon": "bicon-tech-nestjs",
                 "tag": [
+                    "backend",
+                    "f-stack"
+                ]
+            },
+            {
+                "name": "NodeJS",
+                "topic": "Backend",
+                "refIcon": "bicon-tech-nodejs",
+                "tag": [
+                    "backend",
+                    "f-stack"
+                ]
+            },
+            {
+                "name": "Git",
+                "topic": "Control Version",
+                "refIcon": "bicon-tech-git",
+                "tag": [
+                    "devops"
+                ]
+            },
+            {
+                "name": "GitHub",
+                "topic": "Control Version",
+                "refIcon": "bicon-tech-github",
+                "tag": [
+                    "devops"
+                ]
+            },
+            {
+                "name": "Godot",
+                "topic": "Game Engine",
+                "refIcon": "bicon-tech-godot",
+                "tag": [
+                    "others"
+                ]
+            },
+            {
+                "name": "MongoDB",
+                "topic": "NoSQL Database",
+                "refIcon": "bicon-tech-mongodb",
+                "tag": [
+                    "d-bases",
+                    "backend"
+                ]
+            },
+            {
+                "name": "MySQL",
+                "topic": "SQL Database",
+                "refIcon": "bicon-tech-mysql",
+                "tag": [
+                    "d-bases",
                     "backend"
                 ]
             },
             {
                 "name": "PostgreSQL",
-                "topic": "Database",
-                "refIcon": "bicon-tech-postgresql",
+                "topic": "SQL Database",
+                "refIcon": "bicon-tech-postgressql",
                 "tag": [
-                    "d-bases"
+                    "d-bases",
+                    "backend"
                 ]
             },
             {
-                "name": "TypeScript",
-                "topic": "Programming Languages",
-                "refIcon": "bicon-tech-typescript",
+                "name": "SQLite",
+                "topic": "SQL Database",
+                "refIcon": "bicon-tech-sqlite",
                 "tag": [
-                    "frontend",
-                    "p-languages"
+                    "d-bases",
+                    "backend"
                 ]
             },
             {
-                "name": "C++",
-                "topic": "Programming Languages",
-                "refIcon": "bicon-tech-cpp",
+                "name": "Matlab",
+                "topic": "Engineering App",
+                "refIcon": "bicon-tech-matlab",
                 "tag": [
-                    "p-languages",
-                    "firmware",
-                    "desk-app"
+                    "others"
+                ]
+            },
+            {
+                "name": "Pandas",
+                "topic": "Data Science Library",
+                "refIcon": "bicon-tech-pandas",
+                "tag": [
+                    "d-science"
+                ]
+            },
+            {
+                "name": "Numpy",
+                "topic": "Data Science Library",
+                "refIcon": "bicon-tech-numpy",
+                "tag": [
+                    "d-science"
+                ]
+            },
+            {
+                "name": "Matplotlib",
+                "topic": "Data Science Library",
+                "refIcon": "bicon-tech-matplotlib",
+                "tag": [
+                    "d-science"
+                ]
+            },
+            {
+                "name": "OpenCV",
+                "topic": "Computer Vision Library",
+                "refIcon": "bicon-tech-opencv",
+                "tag": [
+                    "desk-app",
+                    "others",
+                    "firmware"
                 ]
             },
             {
                 "name": "Qt",
-                "topic": "C++ Library",
+                "topic": "Desktop App Library",
                 "refIcon": "bicon-tech-qt",
                 "tag": [
-                    "p-languages",
-                    "desk-app"
+                    "desk-app",
+                    "others"
+                ]
+            },
+            {
+                "name": "Markdown",
+                "topic": "Documentary Language",
+                "refIcon": "bicon-tech-markdown",
+                "tag": [
+                    "others"
+                ]
+            },
+            {
+                "name": "YAML",
+                "topic": "Automation Language",
+                "refIcon": "bicon-tech-yaml",
+                "tag": [
+                    "others"
+                ]
+            },
+            {
+                "name": "ROS",
+                "topic": "Robotic Framework",
+                "refIcon": "bicon-tech-ros",
+                "tag": [
+                    "others",
+                    "firmware"
+                ]
+            },
+            {
+                "name": "Postman",
+                "topic": "Backend Tool",
+                "refIcon": "bicon-tech-postman",
+                "tag": [
+                    "backend",
+                    "f-stack"
+                ]
+            },
+            {
+                "name": "Scoket.IO",
+                "topic": "Backend",
+                "refIcon": "bicon-tech-scoket-io",
+                "tag": [
+                    "backend",
+                    "f-stack"
+                ]
+            },
+            {
+                "name": "Raspberry Pi",
+                "topic": "Developing Electronic Board",
+                "refIcon": "bicon-tech-raspberrypi",
+                "tag": [
+                    "others",
+                    "firmware",
+                    "devops"
+                ]
+            },
+            {
+                "name": "Arduino",
+                "topic": "Developing Electronic Board",
+                "refIcon": "bicon-tech-arduino",
+                "tag": [
+                    "others",
+                    "firmware"
+                ]
+            },
+            {
+                "name": "Linux",
+                "topic": "Operating System",
+                "refIcon": "bicon-tech-linux",
+                "tag": [
+                    "others",
+                    "devops"
+                ]
+            },
+            {
+                "name": "Windows",
+                "topic": "Operating System",
+                "refIcon": "bicon-tech-windows",
+                "tag": [
+                    "others",
+                    "devops"
                 ]
             }
         ],
@@ -464,6 +712,10 @@
                 "tag": "backend"
             },
             {
+                "topic": "Full-Stack",
+                "tag": "f-stack"
+            },
+            {
                 "topic": "Firmware",
                 "tag": "firmware"
             },
@@ -476,12 +728,16 @@
                 "tag": "d-bases"
             },
             {
-                "topic": "Programming Languages",
-                "tag": "p-languages"
+                "topic": "Data Science",
+                "tag": "d-science"
             },
             {
-                "topic": "Control Version",
-                "tag": "c-version"
+                "topic": "Devops",
+                "tag": "devops"
+            },
+            {
+                "topic": "Others",
+                "tag": "others"
             }
         ]
     }
