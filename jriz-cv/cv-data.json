@@ -289,6 +289,11 @@
                     "tooltip": "C++"
                 },
                 {
+                    "name": "STM32 MCU",
+                    "icon": "bicon-tech-stm-mcu",
+                    "tooltip": "STM32 MCU"
+                },
+                {
                     "name": "Python",
                     "icon": "bicon-tech-python",
                     "tooltip": "Python"
@@ -662,7 +667,7 @@
             },
             {
                 "name": "Raspberry Pi",
-                "topic": "Developing Electronic Board",
+                "topic": "Dev Electronic Board",
                 "refIcon": "bicon-tech-raspberrypi",
                 "tag": [
                     "others",
@@ -672,8 +677,17 @@
             },
             {
                 "name": "Arduino",
-                "topic": "Developing Electronic Board",
+                "topic": "Dev Electronic Board",
                 "refIcon": "bicon-tech-arduino",
+                "tag": [
+                    "others",
+                    "firmware"
+                ]
+            },
+            {
+                "name": "STM32 MCU",
+                "topic": "Dev Electronic Board",
+                "refIcon": "bicon-tech-stm-mcu",
                 "tag": [
                     "others",
                     "firmware"
@@ -695,6 +709,22 @@
                 "tag": [
                     "others",
                     "devops"
+                ]
+            },
+            {
+                "name": "CATIA V5",
+                "topic": "CAD Software",
+                "refIcon": "bicon-tech-catia",
+                "tag": [
+                    "others"
+                ]
+            },
+            {
+                "name": "SolidWorks",
+                "topic": "CAD Software",
+                "refIcon": "bicon-tech-solidworks",
+                "tag": [
+                    "others"
                 ]
             }
         ],
