@@ -1,0 +1,33 @@
+<svg width="200" height="200" viewBox="0 0 200 200"
+     xmlns="http://www.w3.org/2000/svg">
+  
+  <circle cx="100" cy="100" r="80"
+    fill="none"
+    stroke="rgb(231,76,60)"
+    stroke-width="12"
+    stroke-dasharray="550"
+    stroke-dashoffset="550">
+    <animate attributeName="stroke-dashoffset"
+      from="550" to="0"
+      dur="0.8s" fill="freeze" />
+  </circle>
+
+  <circle cx="100" cy="100" r="80"
+    fill="rgb(231,76,60)"
+    opacity="0">
+    <animate attributeName="opacity"
+      from="0" to="1"
+      begin="0.8s" dur="0.2s" fill="freeze"/>
+  </circle>
+
+  <g stroke="white"
+     stroke-width="12"
+     stroke-linecap="round"
+     opacity="0">
+    <line x1="75" y1="75" x2="125" y2="125" />
+    <line x1="125" y1="75" x2="75" y2="125" />
+    <animate attributeName="opacity"
+      from="0" to="1"
+      begin="1s" dur="0.2s" fill="freeze"/>
+  </g>
+</svg>
