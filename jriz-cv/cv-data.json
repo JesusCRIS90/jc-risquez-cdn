@@ -189,7 +189,7 @@
                 {
                     "name": "Youtube",
                     "icon": "bicon-social-youtube",
-                    "url": "https://www.youtube.com/embed/hdbAuEC1GFk?si=VfJknXBR7K2QI9Ux",
+                    "url": "https://www.youtube.com/watch?v=hdbAuEC1GFk",
                     "tooltip": "Youtube Link"
                 }
             ]
@@ -227,7 +227,7 @@
                 {
                     "name": "Youtube",
                     "icon": "bicon-social-youtube",
-                    "url": "https://www.youtube.com/embed/YCOb-NA-qTQ?si=CS7uFF3Va94D0A_b",
+                    "url": "https://www.youtube.com/watch?v=YCOb-NA-qTQ",
                     "tooltip": "Youtube Link"
                 }
             ]
