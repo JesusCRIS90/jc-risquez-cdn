@@ -187,10 +187,10 @@
             ],
             "links": [
                 {
-                    "name": "Github",
-                    "icon": "bicon-tech-github",
-                    "url": "#",
-                    "tooltip": "github"
+                    "name": "Youtube",
+                    "icon": "bicon-social-youtube",
+                    "url": "https://www.youtube.com/embed/hdbAuEC1GFk?si=VfJknXBR7K2QI9Ux",
+                    "tooltip": "Youtube Link"
                 }
             ]
         },
@@ -225,10 +225,10 @@
             ],
             "links": [
                 {
-                    "name": "Github",
-                    "icon": "bicon-tech-github",
-                    "url": "#",
-                    "tooltip": "github"
+                    "name": "Youtube",
+                    "icon": "bicon-social-youtube",
+                    "url": "https://www.youtube.com/embed/YCOb-NA-qTQ?si=CS7uFF3Va94D0A_b",
+                    "tooltip": "Youtube Link"
                 }
             ]
         }
